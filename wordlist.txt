@@ -1349,8 +1349,10 @@ account-cn
 account-cn-prod
 account-global
 accountingmanual
+account-int
 accountname
 account-prod
+account-qa
 accounts
 accounts-auth0
 accountsdr
@@ -16897,6 +16899,7 @@ mw
 mwa
 m-wap1
 m-web1
+mws
 mwuahx00
 mwww1-a-int
 mwww1-a-int-carrierpickup
@@ -20374,6 +20377,8 @@ profile
 profilepicture
 profile-pictures
 profiler00
+profiles
+profiles-staging
 profilnet
 programmingmiss60
 programregistration
@@ -21241,6 +21246,7 @@ rec
 rec6
 recall0110
 rechtenverkenner
+recognition
 recommendations
 recommendations-stg
 recommendations-test
@@ -21515,6 +21521,7 @@ revenuesigning
 revenuetransport
 revenuewebhook
 review
+reviewerlocator
 review-notifier
 reviewpreview
 reviews
@@ -26450,6 +26457,8 @@ ttrpgpudb
 tts
 ttshape
 tu3cg
+tuat-profiles
+tuat-profiles-aa
 tubata90
 tube
 tuiuk
@@ -27011,6 +27020,7 @@ usmnsgbs-ftp2
 usmnsgbs-web
 usmnsgbs-web3
 usna
+usorigin
 usports
 uspsappsdev
 usps-cmg-eus-01
@@ -28954,6 +28964,8 @@ web-stage
 webster420
 webstore
 webstories
+websupp
+websupp-eu
 websvcs
 webtcas
 webteam-dashboard
