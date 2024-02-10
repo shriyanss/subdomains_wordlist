@@ -6,7 +6,10 @@ Subdomains wordlist generted from subdomains of public bug bounty programs
 ```
 curl https://raw.githubusercontent.com/shriyanss/subdomains_wordlist/main/filtered_subdomain_wordlist.txt -o filtered_subdomain_wordlist.txt
 ```
-
+- The most frequent subdomains (i.e. more than 5 occurrences)
+```
+curl https://raw.githubusercontent.com/shriyanss/subdomains_wordlist/main/frequent.txt -o frequent.txt
+```
 - Raw wordlist
 ```
 curl https://raw.githubusercontent.com/shriyanss/subdomains_wordlist/main/wordlist.txt -o wordlist.txt
