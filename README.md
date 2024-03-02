@@ -2,13 +2,13 @@
 Subdomains wordlist generted from subdomains of public bug bounty programs
 
 ## Download wordlists
-- Everything filtered (less possibility of noise) (recommended)
-```
-curl https://raw.githubusercontent.com/shriyanss/subdomains_wordlist/main/filtered_subdomain_wordlist.txt -o filtered_subdomain_wordlist.txt
-```
-- The most frequent subdomains (i.e. more than 5 occurrences)
+- The most frequent subdomains (i.e. more than 5 occurrences) (recommended)
 ```
 curl https://raw.githubusercontent.com/shriyanss/subdomains_wordlist/main/frequent.txt -o frequent.txt
+```
+- Everything filtered (less possibility of noise)
+```
+curl https://raw.githubusercontent.com/shriyanss/subdomains_wordlist/main/filtered_subdomain_wordlist.txt -o filtered_subdomain_wordlist.txt
 ```
 - Raw wordlist
 ```
@@ -25,6 +25,8 @@ curl https://raw.githubusercontent.com/shriyanss/subdomains_wordlist/main/no_uui
 
 ## About
 The wordlist is generated with my tool [@shriyanss/subdomain_wordlist_gen](https://github.com/shriyanss/subdomain_wordlist_gen) (aka subgen) used over a list of subdomains gathered with [@projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder/blob/dev/LICENSE.md) run on domains from bug bounty programs obtained from [@arkadiyt/bounty-targets-data/data/domains.txt](https://github.com/arkadiyt/bounty-targets-data/blob/main/data/domains.txt)
+
+Also, you can check out detailed blog related to this on my site at [https://shriyanss.github.io/categories/subdomains-wordlist/](https://shriyanss.github.io/categories/subdomains-wordlist/)
 
 ## Contributing
 If you have found any new pattern for noise in the wordlist, feel free to create a new issue.
